@@ -2,7 +2,7 @@ package no.finntech.aoc2023
 
 import org.junit.jupiter.api.Test
 
-internal class DayOTest {
+internal class Day0Test {
     val testInput = listOf(
         ""
     )
